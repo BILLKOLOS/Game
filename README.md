@@ -53,5 +53,5 @@ This game is licensed under the Appache 2.0 License - see the LICENSE.md file fo
 
 Author
 Bill Clinton Ooko
-GitHub: github.com/billkolos
+GitHub: https://github.com/billkolos
 Website: Https://billkolos.github.io

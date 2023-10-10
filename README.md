@@ -26,3 +26,32 @@ To run the game locally:
 
    ```bash
    git clone https://github.com/billkolos/delta-blue-game.git
+Open the game folder:
+
+bash
+Copy code
+cd delta-blue-game
+Open index.html in your web browser.
+
+Development
+If you'd like to contribute to the game or explore the source code:
+
+Clone this repository:
+
+bash
+Copy code
+git clone https://github.com/billkolos/delta-blue-game.git
+Make your changes and test the game locally.
+
+Submit a pull request if you'd like to contribute your changes.
+
+Credits
+Background music by .....
+Game assets by ,,,,,
+License
+This game is licensed under the Appache 2.0 License - see the LICENSE.md file for details.
+
+Author
+Bill Clinton Ooko
+GitHub: Bill's GitHub Profile
+Website: Bill's Personal Website
